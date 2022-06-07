@@ -1,0 +1,2 @@
+# SMA_IMX6ULL
+SMA_MAIN board
